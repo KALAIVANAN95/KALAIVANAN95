@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hi, I'm Kalaivanan K 👋 <br><br>
-Frontend Developer | React.js | JavaScript | TypeScript | Node.js <br> <br> I have  4+ years of experience in React.js, building enterprise SaaS applications. Experienced in developing dashboards, reusable components, REST API integrations, authentication, dynamic forms, and responsive user interfaces.<br><br>I also have hands-on experience with Node.js, Express.js, PostgreSQL, MongoDB, and Socket.IO, enabling me to contribute to full-stack development.<br><br>🚀 Currently seeking Frontend Developer and Full-Stack Developer opportunities to build scalable, high-quality web applications while continuously learning and growing<br><br>🎓 Diploma in Computer Engineering.<br><br>Chennai, Tamil Nadu, India.
+Hi, I'm Kalaivanan K 👋
+
+React.js Frontend Developer | JavaScript | TypeScript | Node.js
+
+I have 4+ years of experience building enterprise SaaS applications using React.js. Experienced in developing dashboards, reusable components, REST API integrations, authentication, dynamic forms, and responsive user interfaces.
+
+I also have hands-on experience with Node.js, Express.js, PostgreSQL, MongoDB, and Socket.IO, enabling me to contribute to full-stack development.
+
+🚀 Currently seeking React.js Frontend Developer or Full Stack (MERN) Developer opportunities.
+
+🎓 Diploma in Computer Engineering
+
+📍 Chennai, Tamil Nadu, India
 
 
 ## 🌐 Socials:
